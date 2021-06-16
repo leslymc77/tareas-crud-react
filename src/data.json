@@ -1,0 +1,32 @@
+{
+    "data" : [
+        {
+            "id":"1",
+            "titulo": "Tarea 1",
+            "responsable": "Lesly Muñoz",
+            "descripcion": "Capacitacion MV",
+            "prioridad": "Alta"
+        },
+        {
+            "id":"2",
+            "titulo": "Tarea 2",
+            "responsable": "Daniel Cachique",
+            "descripcion": "Procesos Asistenciales MV",
+            "prioridad": "Media"
+        },
+        {
+            "id":"3",
+            "titulo": "Tarea 3",
+            "responsable": "Benjamin Mamani",
+            "descripcion": "Analisis Facturacion MV",
+            "prioridad": "Alta"
+        },
+        {
+            "id":"4",
+            "titulo": "Tarea 4",
+            "responsable": "Eli Siguas",
+            "descripcion": "Gestion de Camas MV",
+            "prioridad": "Media"
+        }
+    ]
+}
