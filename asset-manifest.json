@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/tareas-crud-react/static/css/main.83582294.chunk.css",
+    "main.js": "/tareas-crud-react/static/js/main.16c154fa.chunk.js",
+    "main.js.map": "/tareas-crud-react/static/js/main.16c154fa.chunk.js.map",
+    "runtime-main.js": "/tareas-crud-react/static/js/runtime-main.d6f3c185.js",
+    "runtime-main.js.map": "/tareas-crud-react/static/js/runtime-main.d6f3c185.js.map",
+    "static/js/2.623a0a4e.chunk.js": "/tareas-crud-react/static/js/2.623a0a4e.chunk.js",
+    "static/js/2.623a0a4e.chunk.js.map": "/tareas-crud-react/static/js/2.623a0a4e.chunk.js.map",
+    "static/js/3.6aa1d14b.chunk.js": "/tareas-crud-react/static/js/3.6aa1d14b.chunk.js",
+    "static/js/3.6aa1d14b.chunk.js.map": "/tareas-crud-react/static/js/3.6aa1d14b.chunk.js.map",
+    "index.html": "/tareas-crud-react/index.html",
+    "static/css/main.83582294.chunk.css.map": "/tareas-crud-react/static/css/main.83582294.chunk.css.map",
+    "static/js/2.623a0a4e.chunk.js.LICENSE.txt": "/tareas-crud-react/static/js/2.623a0a4e.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/tareas-crud-react/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d6f3c185.js",
+    "static/js/2.623a0a4e.chunk.js",
+    "static/css/main.83582294.chunk.css",
+    "static/js/main.16c154fa.chunk.js"
+  ]
+}
